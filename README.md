@@ -2,7 +2,7 @@
 
 **Enjoy the rock paper scissor**
 
-[Visit site](git remote add origin https://github.com/Kaushal-Dhungel/Rock_Paper_Scissor.git)
+[Visit site](https://kaushal-dhungel.github.io/Rock_Paper_Scissor/)
 
 
 ![Thumbnail](https://github.com/Kaushal-Dhungel/Rock_Paper_Scissor/blob/master/rcp.png)
